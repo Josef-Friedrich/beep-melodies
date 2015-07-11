@@ -2,4 +2,30 @@
 TITLE='Super Mario victory theme'
 DESCRIPTION=''
 SOURCE='http://blog.dhampir.no/content/fun-with-beep'
-beep -f 130 -l 100 -n -f 262 -l 100 -n -f 330 -l 100 -n -f 392 -l 100 -n -f 523 -l 100 -n -f 660 -l 100 -n -f 784 -l 300 -n -f 660 -l 300 -n -f 146 -l 100 -n -f 262 -l 100 -n -f 311 -l 100 -n -f 415 -l 100 -n -f 523 -l 100 -n -f 622 -l 100 -n -f 831 -l 300 -n -f 622 -l 300 -n -f 155 -l 100 -n -f 294 -l 100 -n -f 349 -l 100 -n -f 466 -l 100 -n -f 588 -l 100 -n -f 699 -l 100 -n -f 933 -l 300 -n -f 933 -l 100 -n -f 933 -l 100 -n -f 933 -l 100 -n -f 1047 -l 400
+beep	-f130	-l100	\
+-n	-f262	-l100	\
+-n	-f330	-l100	\
+-n	-f392	-l100	\
+-n	-f523	-l100	\
+-n	-f660	-l100	\
+-n	-f784	-l300	\
+-n	-f660	-l300	\
+-n	-f146	-l100	\
+-n	-f262	-l100	\
+-n	-f311	-l100	\
+-n	-f415	-l100	\
+-n	-f523	-l100	\
+-n	-f622	-l100	\
+-n	-f831	-l300	\
+-n	-f622	-l300	\
+-n	-f155	-l100	\
+-n	-f294	-l100	\
+-n	-f349	-l100	\
+-n	-f466	-l100	\
+-n	-f588	-l100	\
+-n	-f699	-l100	\
+-n	-f933	-l300	\
+-n	-f933	-l100	\
+-n	-f933	-l100	\
+-n	-f933	-l100	\
+-n	-f1047	-l400

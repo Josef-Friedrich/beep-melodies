@@ -2,11 +2,35 @@
 TITLE='Vader jacob'
 DESCRIPTION=''
 SOURCE='http://www.reddit.com/r/linux/comments/18h8v5/does_anyone_have_or_know_a_source_for_beep_scripts/'
-beep -l 300 -f 100 -n -l 300 -f 112 -n -l 300 -f 126 -n -l 300 -f 100 -n -l 300 \
-                -f 100 -n -l 300 -f 112 -n -l 300 -f 126 -n -l 300 -f 100 -n -l 300 \
-                -f 126 -n -l 300 -f 133 -n -l 600 -f 150 -n -l 300 -f 126 -n -l 300 \
-                -f 133 -n -l 600 -f 150 -n -l 150 -f 150 -n -l 150 -f 168 -n -l 150 \
-                -f 150 -n -l 150 -f 133 -n -l 300 -f 126 -n -l 300 -f 100 -n -l 150 \
-                -f 150 -n -l 150 -f 168 -n -l 150 -f 150 -n -l 150 -f 133 -n -l 300 \
-                -f 126 -n -l 300 -f 100 -n -l 300 -f 100 -n -l 300 -f 75 -n -l 600 \
-                -f 100 -n -l 300 -f 100 -n -l 300 -f 75 -n -l 600 -f 100
+beep	-l300	-f100	\
+-n	-l300	-f112	\
+-n	-l300	-f126	\
+-n	-l300	-f100	\
+-n	-l300	-f100	\
+-n	-l300	-f112	\
+-n	-l300	-f126	\
+-n	-l300	-f100	\
+-n	-l300	-f126	\
+-n	-l300	-f133	\
+-n	-l600	-f150	\
+-n	-l300	-f126	\
+-n	-l300	-f133	\
+-n	-l600	-f150	\
+-n	-l150	-f150	\
+-n	-l150	-f168	\
+-n	-l150	-f150	\
+-n	-l150	-f133	\
+-n	-l300	-f126	\
+-n	-l300	-f100	\
+-n	-l150	-f150	\
+-n	-l150	-f168	\
+-n	-l150	-f150	\
+-n	-l150	-f133	\
+-n	-l300	-f126	\
+-n	-l300	-f100	\
+-n	-l300	-f100	\
+-n	-l300	-f75	\
+-n	-l600	-f100	\
+-n	-l300	-f100	\
+-n	-l300	-f75	\
+-n	-l600	-f100
