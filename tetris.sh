@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/bin/sh
 TITLE='Tetris'
 DESCRIPTION='tohands says June 15, 2012 at 19:38 Here a tetris one that I made'
 SOURCE='http://www.kirrus.co.uk/2010/09/linux-beep-music/'

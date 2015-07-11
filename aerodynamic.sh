@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/bin/sh
 TITLE='Daft Punk - Aerodynamic'
 DESCRIPTION=' Clint says:
 August 18, 2013 at 17:03

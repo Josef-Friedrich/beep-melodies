@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/bin/sh
 TITLE='Mission impossible'
 DESCRIPTION=''
 SOURCE='http://www.kirrus.co.uk/2010/09/linux-beep-music/'

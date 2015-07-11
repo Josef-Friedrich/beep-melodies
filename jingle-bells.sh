@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/bin/sh
 TITLE='Jingle bells'
 DESCRIPTION=''
 SOURCE='http://blog.meyju.net/2011/07/27/beep-sounds'
