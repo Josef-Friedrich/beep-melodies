@@ -2,6 +2,8 @@
 
 FILE="$1"
 
+cp "$FILE" "$FILE.bak"
+
 cat "$FILE" | head -n 4 > "$FILE.head"
 cat "$FILE" | tail -n +5 > "$FILE.beep"
 
@@ -16,8 +18,10 @@ sed -i 's/--new/-n/g' "$EDIT"
 sed -i 's/-n /\\\n-n /g' "$EDIT"
 sed -i 's/ \+/\t/g' "$EDIT"
 
-cat "$FILE.head" "$FILE.beep" > "$FILE.norm"
+cat "$FILE.head" "$FILE.beep" > "$FILE"
 
 rm -f "$FILE.head" "$FILE.beep"
 
-cat "$FILE.norm"
+cat "$FILE"
+
+chmod a+x "$FILE"
