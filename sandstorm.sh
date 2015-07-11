@@ -1,5 +1,4 @@
 #!/bin/sh
-
 TITLE='Sandstorm'
 DESCRIPTION=''
 SOURCE='https://github.com/TheKiwi5000/BeepingPenguin'

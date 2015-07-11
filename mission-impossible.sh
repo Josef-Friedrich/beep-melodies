@@ -2,7 +2,6 @@
 TITLE='Mission impossible'
 DESCRIPTION=''
 SOURCE='http://www.kirrus.co.uk/2010/09/linux-beep-music/'
-
 #Note Frequency
 C=261.6
 C1=277.2
