@@ -14,3 +14,7 @@ To load the `pcspkr` module on every startup comment out this line in
 `/etc/modprobe.d/blacklist.conf`. 
 
     #blacklist pcspkr
+
+## Similar repositories
+
+* https://github.com/binarypearl/beepbeep
