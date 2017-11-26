@@ -2,6 +2,7 @@
 TITLE='Tetris'
 DESCRIPTION='tohands says June 15, 2012 at 19:38 Here a tetris one that I made'
 SOURCE='http://www.kirrus.co.uk/2010/09/linux-beep-music/'
+# see also: https://github.com/ShaneMcC/beeps/blob/master/tetris.sh
 beep	-f330	-l150	\
 -n	-f1	-l40	\
 -n	-f494	-l159	\
