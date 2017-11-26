@@ -1,4 +1,4 @@
-# beep-melodies
+# beep-melodies: Linux beep melodies and songs
 
 ## Preparation
 
