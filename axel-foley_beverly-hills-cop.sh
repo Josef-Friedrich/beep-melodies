@@ -1,5 +1,5 @@
 #!/bin/sh
-TITLE='Axel F'
+TITLE='Axel Foley - Beverly Hills cop'
 DESCRIPTION=''
 SOURCE='http://blog.meyju.net/2011/07/27/beep-sound'
 beep	-f659	-l460	\
