@@ -18,6 +18,11 @@ To load the `pcspkr` module on every startup comment out this line in
 ## Similar repositories
 
 * https://github.com/binarypearl/beepbeep
+* https://github.com/ShaneMcC/beeps
+
+## Tools
+
+* https://github.com/Cqoicebordel/mid2beep
 
 ## Table of frequencies
 
